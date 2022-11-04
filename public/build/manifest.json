@@ -1,0 +1,16 @@
+{
+  "public/img/img.png": {
+    "file": "assets/img.b231ddca.png",
+    "src": "public/img/img.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.d79b2cb9.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.084f3de9.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
